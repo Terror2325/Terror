@@ -55,3 +55,17 @@
 [15Jun2025 19:28:33.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas23m has made the advancement [Stone Age]
 [15Jun2025 19:29:42.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cami23m lost connection: Disconnected
 [15Jun2025 19:29:42.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cami23m left the game
+[15Jun2025 19:31:24.594] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=685, y=66, z=111}
+[15Jun2025 19:36:43.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas23m has made the advancement [Best Friends Forever]
+[15Jun2025 19:38:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebas23m> null
+[15Jun2025 19:38:15.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebas23m> happy
+[15Jun2025 19:39:32.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sebas23m has made the advancement [Take Aim]
+[15Jun2025 19:40:31.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebas23m> null
+[15Jun2025 19:40:34.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebas23m> null
+[15Jun2025 19:40:36.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebas23m> null
+[15Jun2025 19:40:38.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sebas23m> null
+[15Jun2025 19:41:02.105] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Cami23m[/127.167.218.7:42935] logged in with entity id 5509 at (676.3502161599364, 68.0, 135.65877373617485)
+[15Jun2025 19:41:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cami23m joined the game
+[15Jun2025 19:41:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cami23m joined the game
+[15Jun2025 19:41:10.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Cami23m lost connection: Disconnected
+[15Jun2025 19:41:10.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Cami23m left the game
