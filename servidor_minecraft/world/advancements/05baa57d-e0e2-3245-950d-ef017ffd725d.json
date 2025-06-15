@@ -7,11 +7,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-15 19:46:22 +0000",
       "minecraft:taiga": "2025-06-15 17:36:44 +0000",
       "minecraft:birch_forest": "2025-06-15 17:44:26 +0000",
       "minecraft:beach": "2025-06-15 17:37:55 +0000",
       "minecraft:river": "2025-06-15 17:45:27 +0000",
       "minecraft:forest": "2025-06-15 17:47:00 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-15 19:45:30 +0000",
       "minecraft:plains": "2025-06-15 18:21:22 +0000"
     },
     "done": false
@@ -271,7 +273,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-15 19:35:57 +0000",
-      "minecraft:spider": "2025-06-15 17:44:05 +0000"
+      "minecraft:spider": "2025-06-15 17:44:05 +0000",
+      "minecraft:creeper": "2025-06-15 19:36:38 +0000",
+      "minecraft:zombie": "2025-06-15 19:37:07 +0000"
     },
     "done": false
   },
@@ -365,6 +369,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-15 19:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-06-15 19:28:33 +0000"
@@ -395,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-15 19:28:33 +0000"
@@ -404,6 +438,24 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-06-15 19:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-15 19:39:32 +0000"
     },
     "done": true
   },
@@ -428,6 +480,18 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-15 19:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
     },
     "done": true
   },
@@ -467,6 +531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 19:36:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-15 19:31:00 +0000"
@@ -476,6 +546,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-15 19:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-15 19:36:39 +0000"
     },
     "done": true
   },
@@ -506,6 +582,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-06-15 19:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-15 19:40:07 +0000"
     },
     "done": true
   },
